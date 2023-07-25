@@ -1,0 +1,23 @@
+{
+  "name": "gpt-4-access",
+  "version": "1.0.0",
+  "description": "Please let me know when I have access to the GPT-4 api!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayabbott/gpt-4-access.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayabbott/gpt-4-access/issues"
+  },
+  "homepage": "https://github.com/jayabbott/gpt-4-access#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "twilio": "^4.14.0"
+  }
+}
